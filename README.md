@@ -1,12 +1,12 @@
 # owf
 Ozone Widge Framework
 
-This repository contains useful downloads
+Useful Downloads
 
 - git the source code https://github.com/ozoneplatform/owf-framework.git
 - get a docker with OWF compiled from source "docker run -it gnpatterson/owf:build"
 
-This repository contains useful documentation
+Useful Documentation
 https://www.csiac.org/journal-article/achieving-information-dominance-unleashing-the-ozone-widget-framework/
 
 - read about the OWF architecture at http://www.cs.cmu.edu/~iruchkin/docs/ruchkin14-owf.pdf
